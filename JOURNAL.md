@@ -26,3 +26,8 @@ Converted to a PCB! I routed the components and started to design.
 
 I was updating my friend during the process, and he was pointing out errors for me that I couldn't find. The program I am using is annoying, but also simple, it doesn't let me do some things, and I have to mess around with it.  
 
+## 10/13/2025 11:33 PM - Design 2 (I didn't document the first design)  
+
+I don't have screenshots of the first design, but here's the second one. The first design had unnecessary images on it, and it was just looking tacky. The problem with adding images is converting them to SVG or using the built-in images importer. Converting images to SVGs was annoying and not working well, so I switched to using the built-in image importer. It works a lot better. I wish I could use an eraser tool and fix up spots.
+![asdfasdfwef.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--5228ee7c2b5a563cf7ab603f4ec5eae3a8764961/asdfasdfwef.png)  
+
