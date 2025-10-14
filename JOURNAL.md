@@ -40,3 +40,13 @@ I added a QR code to the back. I wasn't going to add one originally cause I thou
 ![fafgsghsdfsdf.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE3MywicHVyIjoiYmxvYl9pZCJ9fQ==--5277a86fea78a71cddfaa534940a66a5ad470dff/fafgsghsdfsdf.png)
   
 
+## 10/13/2025 11:41 PM - Final PCB design and fixed a few errors.  
+
+I had errors with the QR code; my friend said that the vias weren't needed, but I don't know how they were added. I had a few more things that weren't needed on the PCB that my friend told me to remove.
+![asdfasdfasdfwefrag.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--0cc31035b4e1f0708be899edcaa12dbc8289ad24/asdfasdfasdfwefrag.png)
+I think this is the final version of my card design. I'm happy with it, it's simple but looks good.
+![back.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE3NywicHVyIjoiYmxvYl9pZCJ9fQ==--65c31dd48838ebf15f95922e9aa6b4dd82b3920d/back.PNG)
+![PCB_Design.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--2dd5b08504da02f43743923e18c7316bb2eb182a/PCB_Design.PNG)
+![front.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ba143801452be43245945d1cf7ce23680be86e89/front.PNG)
+  
+
