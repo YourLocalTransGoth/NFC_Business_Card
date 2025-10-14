@@ -10,9 +10,19 @@ This is my journal of the design and building process of **My PCB Business Card*
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/499).
 
 
-## 10/13/2025 - PCB schematic  
+## 10/13/2025 11:24 PM - PCB schematic  
 
 ![Capture.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--2444b6cf0539740841051b2e1065e82a9c9e9dbb/Capture.PNG)
 
 I made the schematic pretty quickly. After doing this for the second time, I understood the program better. This schematic is pretty basic, with one LED, one resistor, one capacitor, one NFC chip, and one NFC antenna. I was hoping to use a different colored LED, but I didn't know that different colored LEDs require more or less power.  
+
+## 10/13/2025 11:29 PM - Routed the PCB and started to design  
+
+![adfdsads.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--fe2ca48ec548d58eaf0d8eab11f9f043c1ba3989/adfdsads.png)
+
+Converted to a PCB! I routed the components and started to design. 
+
+![adafdsfasd.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--c3c6ec62b215a6323313e280b61f20d3370e5241/adafdsfasd.png)
+
+I was updating my friend during the process, and he was pointing out errors for me that I couldn't find. The program I am using is annoying, but also simple, it doesn't let me do some things, and I have to mess around with it.  
 
