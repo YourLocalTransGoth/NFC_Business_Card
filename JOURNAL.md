@@ -31,3 +31,12 @@ I was updating my friend during the process, and he was pointing out errors for 
 I don't have screenshots of the first design, but here's the second one. The first design had unnecessary images on it, and it was just looking tacky. The problem with adding images is converting them to SVG or using the built-in images importer. Converting images to SVGs was annoying and not working well, so I switched to using the built-in image importer. It works a lot better. I wish I could use an eraser tool and fix up spots.
 ![asdfasdfwef.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--5228ee7c2b5a563cf7ab603f4ec5eae3a8764961/asdfasdfwef.png)  
 
+## 10/13/2025 11:37 PM - Updated Design  
+
+I took the image of Ramona Flowers into an art program and cleaned up the edges and parts that the image importer messed up, it looks 10x better. Doing this took me a while, tho, took me an hour and a bit, zooming in on my phone, it was very annoying.
+![asdasdasdsad.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--1e5fe397a6eacfc983da1ef317f77b43f02b4427/asdasdasdsad.png)
+
+I added a QR code to the back. I wasn't going to add one originally cause I thought it was useless since it's an NFC card, but I wanted to add more to my card.
+![fafgsghsdfsdf.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE3MywicHVyIjoiYmxvYl9pZCJ9fQ==--5277a86fea78a71cddfaa534940a66a5ad470dff/fafgsghsdfsdf.png)
+  
+
