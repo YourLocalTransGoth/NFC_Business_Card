@@ -7,5 +7,5 @@ ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Su
 4,47Ω,R1,R0603,10,0603WAF470JT5E,UNI-ROYAL(厚声),LCSC,C23182,0.01,2,R0603,lcsc,Basic Part,https://www.mouser.in/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_11-1669912.pdf
 5,NT3H2111W0FHKH,U1,XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH,10,NT3H2111W0FHKH,NXP(恩智浦),LCSC,C710403,6.95,8,,LCSC,Extended Part,https://www.nxp.com/docs/en/data-sheet/NT3H2111_2211.pdf
 ,,,,,,,,,,,,,,
-,Shipping Estimate ,,,,,,,,,,,,,,,,,,,,,,,,,, Total
-,$32.32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, $39.46
+,Shipping Estimate ,,,,,,,,,,,,,
+,$32.32,,,,,,,,,,,,,
